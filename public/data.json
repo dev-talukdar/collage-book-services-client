@@ -6,7 +6,7 @@
         "collegeName": "Dhaka College",
         "admissionDates": "August 15 - August 30",
         "events": "Annual Cultural Fest, Science Exhibition",
-        "researchHistory": "Established in 1841, one of the oldest colleges in Bangladesh",
+        "research_number": 12,
         "sports": "Cricket, Football, Badminton",
         "detailsButton": "Details"
       },
@@ -16,7 +16,7 @@
         "collegeName": "Titumir College",
         "admissionDates": "August 20 - September 5",
         "events": "Literary Week, Debate Competition",
-        "researchHistory": "Named after Titumir, a Bengali folk hero",
+        "research_number": 9,
         "sports": "Football, Volleyball, Table Tennis",
         "detailsButton": "Details"
       },
@@ -26,7 +26,7 @@
         "collegeName": "Viqarunnissa College",
         "admissionDates": "September 1 - September 15",
         "events": "Annual Sports Day, Science Fair",
-        "researchHistory": "Named after Viqarunnissa Noon, an educationist",
+        "research_number": 15,
         "sports": "Basketball, Athletics, Chess",
         "detailsButton": "Details"
       },
@@ -36,7 +36,7 @@
         "collegeName": "Notre Dame College",
         "admissionDates": "August 25 - September 10",
         "events": "Cultural Week, Quiz Competition",
-        "researchHistory": "Located in Shiddheshwary area of Dhaka",
+        "research_number": 11,
         "sports": "Cricket, Handball, Carrom",
         "detailsButton": "Details"
       },
@@ -46,7 +46,7 @@
         "collegeName": "Saint Joseph College",
         "admissionDates": "August 10 - August 25",
         "events": "Annual Drama Festival, Music Competition",
-        "researchHistory": "Run by the Holy Cross Congregation",
+        "research_number": 26,
         "sports": "Football, Basketball, Swimming",
         "detailsButton": "Details"
       },
@@ -56,7 +56,7 @@
         "collegeName": "Holycross College",
         "admissionDates": "August 15 - August 30",
         "events": "Literary Week, Art Exhibition",
-        "researchHistory": "Named after the Holy Cross Congregation",
+        "research_number": 18,
         "sports": "Cricket, Volleyball, Badminton",
         "detailsButton": "Details"
       },
@@ -66,7 +66,7 @@
         "collegeName": "Savar Govt College",
         "admissionDates": "August 20 - September 5",
         "events": "Science Fair, Debate Competition",
-        "researchHistory": "Located in Savar, Dhaka",
+        "research_number": 21,
         "sports": "Football, Table Tennis, Athletics",
         "detailsButton": "Details"
       },
@@ -76,7 +76,7 @@
         "collegeName": "Savar Model College",
         "admissionDates": "September 1 - September 15",
         "events": "Annual Sports Day, Quiz Competition",
-        "researchHistory": "Model college in Savar area",
+        "research_number": 13,
         "sports": "Cricket, Basketball, Chess",
         "detailsButton": "Details"
       },
@@ -86,7 +86,7 @@
         "collegeName": "BPATC School & College",
         "admissionDates": "August 25 - September 10",
         "events": "Cultural Week, Music Competition",
-        "researchHistory": "Bangladesh Public Administration Training Centre",
+        "research_number": 11,
         "sports": "Football, Badminton, Carrom",
         "detailsButton": "Details"
       },
@@ -96,7 +96,7 @@
         "collegeName": "Savar Cant Public School & College",
         "admissionDates": "August 10 - August 25",
         "events": "Annual Drama Festival, Science Exhibition",
-        "researchHistory": "Located in Savar Cantonment area",
+        "research_number": 8,
         "sports": "Volleyball, Athletics, Swimming",
         "detailsButton": "Details"
       }
