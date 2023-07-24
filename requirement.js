@@ -38,7 +38,7 @@ After login user can see his/her profile name.
 Create a 404 route with a creative look.
 
 
-a. By clicking the ‘Profile Name’’ user will a profile route. . In the profile route user can see details about the user.  
+a. By clicking the Profile Name user will a profile route. . In the profile route user can see details about the user.  
 b. there will be an Edit button in the profile route. Users can edit their Name, email, university, and address. After editing the data, when the ‘Save’ button is clicked, 
 updated data will be replaced. 
 Ensure the website is fully responsive and works flawlessly across various devices, including desktops, tablets, and mobile phones.

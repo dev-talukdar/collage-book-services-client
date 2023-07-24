@@ -2,16 +2,19 @@ import { Link } from "react-router-dom";
 
 
 const NavigationBar = () => {
+
+  
     const navOptions = <>
         <li><Link to={'/'}>Home</Link></li>
         <li><Link to={'colleges'}>Colleges</Link></li>
         <li><Link to={'admission'}>Admission</Link></li>
         <li><Link to={'my-college'}>My College</Link></li>
+         
     </>
     return (
 
 
-        <div className="navbar bg-base-200">
+        <div className="navbar container mx-auto bg-base-200">
             <div className="navbar-start">
                 <div className="dropdown">
                     <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -29,7 +32,7 @@ const NavigationBar = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <a className="btn">Button</a>
+                <a className="">Login</a>
             </div>
         </div>
     );
