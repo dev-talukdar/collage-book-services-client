@@ -1,0 +1,105 @@
+{
+    "colleges": [
+      {
+        "collegeId": 1,
+        "collegeImage": "https://www.observerbd.com/2023/03/05/ob_1678024224.jpg",
+        "collegeName": "Dhaka College",
+        "admissionDates": "August 15 - August 30",
+        "events": "Annual Cultural Fest, Science Exhibition",
+        "researchHistory": "Established in 1841, one of the oldest colleges in Bangladesh",
+        "sports": "Cricket, Football, Badminton",
+        "detailsButton": "Details"
+      },
+      {
+        "collegeId": 2,
+        "collegeImage": "https://en.shampratikdeshkal.com/uploads/2020/11/online/photos/Titumir-5fb5154d23b81.jpg",
+        "collegeName": "Titumir College",
+        "admissionDates": "August 20 - September 5",
+        "events": "Literary Week, Debate Competition",
+        "researchHistory": "Named after Titumir, a Bengali folk hero",
+        "sports": "Football, Volleyball, Table Tennis",
+        "detailsButton": "Details"
+      },
+      {
+        "collegeId": 3,
+        "collegeImage": "https://www.justnewsbd.com/np-uploads/content/images/2017December/7-1-20230306140505.jpg",
+        "collegeName": "Viqarunnissa College",
+        "admissionDates": "September 1 - September 15",
+        "events": "Annual Sports Day, Science Fair",
+        "researchHistory": "Named after Viqarunnissa Noon, an educationist",
+        "sports": "Basketball, Athletics, Chess",
+        "detailsButton": "Details"
+      },
+      {
+        "collegeId": 4,
+        "collegeImage": "https://studybarta.files.wordpress.com/2018/05/notre-dame-college.jpg",
+        "collegeName": "Notre Dame College",
+        "admissionDates": "August 25 - September 10",
+        "events": "Cultural Week, Quiz Competition",
+        "researchHistory": "Located in Shiddheshwary area of Dhaka",
+        "sports": "Cricket, Handball, Carrom",
+        "detailsButton": "Details"
+      },
+      {
+        "collegeId": 5,
+        "collegeImage": "https://www.collegebatch.com/static/clg-gallery/st-josephs-college-of-commerce-bangalore-223709.jpg",
+        "collegeName": "Saint Joseph College",
+        "admissionDates": "August 10 - August 25",
+        "events": "Annual Drama Festival, Music Competition",
+        "researchHistory": "Run by the Holy Cross Congregation",
+        "sports": "Football, Basketball, Swimming",
+        "detailsButton": "Details"
+      },
+      {
+        "collegeId": 6,
+        "collegeImage": "https://urquery.com/storage/2020/10/Holy-Cross-leisure-time.jpg",
+        "collegeName": "Holycross College",
+        "admissionDates": "August 15 - August 30",
+        "events": "Literary Week, Art Exhibition",
+        "researchHistory": "Named after the Holy Cross Congregation",
+        "sports": "Cricket, Volleyball, Badminton",
+        "detailsButton": "Details"
+      },
+      {
+        "collegeId": 7,
+        "collegeImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Savar_adhar_chandra.jpg/640px-Savar_adhar_chandra.jpg",
+        "collegeName": "Savar Govt College",
+        "admissionDates": "August 20 - September 5",
+        "events": "Science Fair, Debate Competition",
+        "researchHistory": "Located in Savar, Dhaka",
+        "sports": "Football, Table Tennis, Athletics",
+        "detailsButton": "Details"
+      },
+      {
+        "collegeId": 8,
+        "collegeImage": "college8.jpg",
+        "collegeName": "Savar Model College",
+        "admissionDates": "September 1 - September 15",
+        "events": "Annual Sports Day, Quiz Competition",
+        "researchHistory": "Model college in Savar area",
+        "sports": "Cricket, Basketball, Chess",
+        "detailsButton": "Details"
+      },
+      {
+        "collegeId": 9,
+        "collegeImage": "college9.jpg",
+        "collegeName": "BPATC School & College",
+        "admissionDates": "August 25 - September 10",
+        "events": "Cultural Week, Music Competition",
+        "researchHistory": "Bangladesh Public Administration Training Centre",
+        "sports": "Football, Badminton, Carrom",
+        "detailsButton": "Details"
+      },
+      {
+        "collegeId": 10,
+        "collegeImage": "college10.jpg",
+        "collegeName": "Savar Cant Public School & College",
+        "admissionDates": "August 10 - August 25",
+        "events": "Annual Drama Festival, Science Exhibition",
+        "researchHistory": "Located in Savar Cantonment area",
+        "sports": "Volleyball, Athletics, Swimming",
+        "detailsButton": "Details"
+      }
+    ]
+  }
+  
