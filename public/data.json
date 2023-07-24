@@ -72,7 +72,7 @@
       },
       {
         "collegeId": 8,
-        "collegeImage": "college8.jpg",
+        "collegeImage": "https://www.mawbiz.com.bd/application/views/module/product_image/savar-model-college_1.jpg",
         "collegeName": "Savar Model College",
         "admissionDates": "September 1 - September 15",
         "events": "Annual Sports Day, Quiz Competition",
@@ -82,7 +82,7 @@
       },
       {
         "collegeId": 9,
-        "collegeImage": "college9.jpg",
+        "collegeImage": "https://cdn.jagonews24.com/media/imgAllNew/BG/2019April/bpatc-20190615161000.jpg",
         "collegeName": "BPATC School & College",
         "admissionDates": "August 25 - September 10",
         "events": "Cultural Week, Music Competition",
@@ -92,7 +92,7 @@
       },
       {
         "collegeId": 10,
-        "collegeImage": "college10.jpg",
+        "collegeImage": "https://alchetron.com/cdn/savar-cantonment-public-school-and-college-98f648f6-f6c5-458a-8db3-d1f06b3d16f-resize-750.jpg",
         "collegeName": "Savar Cant Public School & College",
         "admissionDates": "August 10 - August 25",
         "events": "Annual Drama Festival, Science Exhibition",
